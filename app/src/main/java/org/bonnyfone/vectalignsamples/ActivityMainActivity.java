@@ -50,7 +50,7 @@ public class ActivityMainActivity extends AppCompatActivity {
                 break;
 
             case R.id.action_droid_to_apple:
-                swapView(createMorphableView(R.drawable.animated_vector_droid_for_apple, R.drawable.animated_vector_apple, Color.parseColor("#4CAF50")));
+                swapView(createMorphableView(R.drawable.animated_vector_droid_for_apple, R.drawable.animated_vector_apple, Color.parseColor("#000000")));
                 break;
 
             case R.id.action_heart:
